@@ -8,7 +8,8 @@
 
 What I am doing right now:
 - Creating safe versions of several malwares
-- Collecting old NBA team logos
+- Collecting old sports team logos
+- Trying to identify and extend video game music
 
 <!---
 Mario662629/Mario662629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
